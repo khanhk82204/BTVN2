@@ -1,0 +1,9 @@
+﻿- Định nghĩa webcomponent: Là tập hợp các web APIs cho phép chúng ta tạo ra một thẻ HTML riêng
+mang các đặc tính riêng, đóng gói có thể tái sử dụng.
+- Cần dùng webcomponent vì: webcomponent được xây dựng trên chuẩn web hiện tại, vì thế có thể hoạt động
+trên tất cả các trình duyệt, có thể tương thích với tất cả các library và framework của Javascript có thể 
+làm việc với HTML. Nó còn cung cấp trải nghiệm tốt nhất cho người sử dụng.
+- Công nghệ sử dụng webcomponent: 
+ + Custom Element: Đây là các thành phần HTML hợp lệ với các template, behaviors và tag name tùy chỉnh
+ + Shadow DOM: Có khả năng cô lập CSS và JS
+ + HTML templates: Các template do người dùng xác định trong HTML không được hiển thị cho đến khi được gọi
